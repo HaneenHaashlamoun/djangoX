@@ -6,6 +6,7 @@ authors = ["Haneen Hashlamoun <haneen.hashlamoun@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Django = "^3.2.9"
 
 [tool.poetry.dev-dependencies]
 
